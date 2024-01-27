@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+
+\bibitem{ssd}
+W.~Liu, D.~Anguelov, D.~Erhan, C.~Szegedy, S.~Reed, C.-Y. Fu, and A.~C. Berg,
+  ``{SSD}: Single shot {MultiBox} detector,'' in {\em Computer Vision
+  {\textendash} {ECCV} 2016}, pp.~21--37, Springer International Publishing,
+  2016.
+
+\bibitem{fpn}
+T.-Y. Lin, P.~Dollár, R.~Girshick, K.~He, B.~Hariharan, and S.~Belongie,
+  ``Feature pyramid networks for object detection,'' 2017.
+
+\bibitem{fpnssd}
+X.~Li and H.~Luo, ``An improved ssd for small target detection,'' in {\em 2021
+  6th International Conference on Multimedia and Image Processing}, ICMIP 2021,
+  (New York, NY, USA), p.~7–11, Association for Computing Machinery, 2021.
+
+\bibitem{RCNN}
+R.~Girshick, J.~Donahue, T.~Darrell, and J.~Malik, ``Rich feature hierarchies
+  for accurate object detection and semantic segmentation,'' 2014.
+
+\bibitem{FRCNN}
+R.~Girshick, ``Fast r-cnn,'' 2015.
+
+\bibitem{yolov1}
+J.~Redmon, S.~Divvala, R.~Girshick, and A.~Farhadi, ``You only look once:
+  Unified, real-time object detection,'' 2016.
+
+\bibitem{yolov2}
+J.~Redmon and A.~Farhadi, ``Yolo9000: Better, faster, stronger,'' 2016.
+
+\bibitem{yolov3}
+J.~Redmon and A.~Farhadi, ``Yolov3: An incremental improvement,'' 2018.
+
+\bibitem{focalloss}
+T.-Y. Lin, P.~Goyal, R.~Girshick, K.~He, and P.~Dollár, ``Focal loss for dense
+  object detection,'' 2018.
+
+\bibitem{vgg}
+K.~Simonyan and A.~Zisserman, ``Very deep convolutional networks for
+  large-scale image recognition,'' 2015.
+
+\bibitem{SOHAS}
+F.~Pérez-Hernández, S.~Tabik, A.~Lamas, R.~Olmos, H.~Fujita, and F.~Herrera,
+  ``Object detection binary classifiers methodology based on deep learning to
+  identify small objects handled similarly: Application in video
+  surveillance,'' {\em Knowledge-Based Systems}, vol.~194, p.~105590, 2020.
+
+\bibitem{ssdemb}
+H.-T. Choi, H.-J. Lee, H.~Kang, S.~Yu, and H.-H. Park, ``Ssd-emb: An improved
+  ssd using enhanced feature map block for object detection,'' {\em Sensors},
+  vol.~21, p.~2842, 04 2021.
+
+\bibitem{mobilenets}
+A.~G. Howard, M.~Zhu, B.~Chen, D.~Kalenichenko, W.~Wang, T.~Weyand,
+  M.~Andreetto, and H.~Adam, ``Mobilenets: Efficient convolutional neural
+  networks for mobile vision applications,'' 2017.
+
+\end{thebibliography}

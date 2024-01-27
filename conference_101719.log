@@ -1,0 +1,1706 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.1)  27 JAN 2024 18:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**conference_101719.tex
+(./conference_101719.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks18
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\c@ALC@unique=\count273
+\c@ALC@line=\count274
+\c@ALC@rem=\count275
+\c@ALC@depth=\count276
+\ALC@tlm=\skip53
+\algorithmicindent=\skip54
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/vntex/vietnam.sty
+Package: vietnam 2009/07/12 v1.3 support for Vietnamese
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+
+(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 11
+2.
+
+(c:/texlive/2023/texmf-dist/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+))
+(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+)
+(c:/texlive/2023/texmf-dist/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen152
+\captionmargin=\dimen153
+\caption@leftmargin=\dimen154
+\caption@rightmargin=\dimen155
+\caption@width=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count279
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count280
+)
+(c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+
+(c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box53
+\extrarowheight=\dimen161
+\NC@list=\toks25
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen162
+\TX@old@table=\dimen163
+\TX@old@col=\dimen164
+\TX@target=\dimen165
+\TX@delta=\dimen166
+\TX@cols=\count281
+\TX@ftn=\toks26
+)
+(c:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen167
+\lightrulewidth=\dimen168
+\cmidrulewidth=\dimen169
+\belowrulesep=\dimen170
+\belowbottomsep=\dimen171
+\aboverulesep=\dimen172
+\abovetopsep=\dimen173
+\cmidrulesep=\dimen174
+\cmidrulekern=\dimen175
+\defaultaddspace=\dimen176
+\@cmidla=\count282
+\@cmidlb=\count283
+\@aboverulesep=\dimen177
+\@belowrulesep=\dimen178
+\@thisruleclass=\count284
+\@lastruleclass=\count285
+\@thisrulewidth=\dimen179
+)
+(c:/texlive/2023/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count286
+\mult@box=\box55
+\multicol@leftmargin=\dimen180
+\c@unbalance=\count287
+\c@collectmore=\count288
+\doublecol@number=\count289
+\multicoltolerance=\count290
+\multicolpretolerance=\count291
+\full@width=\dimen181
+\page@free=\dimen182
+\premulticols=\dimen183
+\postmulticols=\dimen184
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box56
+\last@line=\box57
+\mc@boxedresult=\box58
+\maxbalancingoverflow=\dimen185
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count292
+\c@columnbadness=\count293
+\c@finalcolumnbadness=\count294
+\last@try=\dimen186
+\multicolovershoot=\dimen187
+\multicolundershoot=\dimen188
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count295
+)
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+(c:/texlive/2023/texmf-dist/tex/latex/xpatch/xpatch.sty
+(c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-12-11 L3 programming layer (loader) 
+
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box101
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(c:/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+))
+(c:/texlive/2023/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count298
+\c@Blindtext=\count299
+\c@blind@countparstart=\count300
+\blind@countxx=\count301
+\blindtext@numBlindtext=\count302
+\blind@countyy=\count303
+\c@blindlist=\count304
+\c@blindlistlevel=\count305
+\c@blindlist@level=\count306
+\blind@listitem=\count307
+\c@blind@listcount=\count308
+\c@blind@levelcount=\count309
+\blind@mathformula=\count310
+\blind@Mathformula=\count311
+\c@blind@randomcount=\count312
+\c@blind@randommax=\count313
+\c@blind@pangramcount=\count314
+\c@blind@pangrammax=\count315
+)
+(c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count316
+\Gm@cntv=\count317
+\c@Gm@tempcnt=\count318
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen195
+\Gm@layoutvoffset=\dimen196
+\Gm@dimlist=\toks27
+)
+(c:/texlive/2023/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(./conference_101719.aux
+
+LaTeX Warning: Label `exampleonVOC' multiply defined.
+
+)
+\openout1 = `conference_101719.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+ (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count319
+\scratchdimen=\dimen197
+\scratchbox=\box102
+\nofMPsegments=\count320
+\nofMParguments=\count321
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count322
+\MPscratchDim=\dimen198
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
+\everyMPtoPDFconversion=\toks29
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=18.06749pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./conference_101719.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `conference_101719.toc'.
+
+ [1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+<fig/subway-robbery-1-1552568509.jpg, id=9, 642.4pt x 361.35pt>
+File: fig/subway-robbery-1-1552568509.jpg Graphic file (type jpg)
+<use fig/subway-robbery-1-1552568509.jpg>
+Package pdftex.def Info: fig/subway-robbery-1-1552568509.jpg  used on input lin
+e 38.
+(pdftex.def)             Requested size: 177.18782pt x 99.66653pt.
+<fig/images.jpg, id=10, 301.125pt x 168.63pt>
+File: fig/images.jpg Graphic file (type jpg)
+<use fig/images.jpg>
+Package pdftex.def Info: fig/images.jpg  used on input line 39.
+(pdftex.def)             Requested size: 177.18782pt x 99.22838pt.
+<fig/z5092842635515_66bf7170494f95e3b6d809a5e2e48128.jpg, id=11, 224.57054pt x 
+126.59377pt>
+File: fig/z5092842635515_66bf7170494f95e3b6d809a5e2e48128.jpg Graphic file (typ
+e jpg)
+<use fig/z5092842635515_66bf7170494f95e3b6d809a5e2e48128.jpg>
+Package pdftex.def Info: fig/z5092842635515_66bf7170494f95e3b6d809a5e2e48128.jp
+g  used on input line 42.
+(pdftex.def)             Requested size: 177.18782pt x 99.88628pt.
+<fig/download.jpg, id=12, 301.125pt x 168.63pt>
+File: fig/download.jpg Graphic file (type jpg)
+<use fig/download.jpg>
+Package pdftex.def Info: fig/download.jpg  used on input line 43.
+(pdftex.def)             Requested size: 177.18782pt x 99.22838pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+[2
+
+ <./fig/subway-robbery-1-1552568509.jpg> <./fig/images.jpg> <./fig/z50928426355
+15_66bf7170494f95e3b6d809a5e2e48128.jpg> <./fig/download.jpg>]
+<fig/z5092846641905_ae48f72dcccc989ba3da7d5c9e133bdc.jpg, id=16, 248.82222pt x 
+186.73792pt>
+File: fig/z5092846641905_ae48f72dcccc989ba3da7d5c9e133bdc.jpg Graphic file (typ
+e jpg)
+<use fig/z5092846641905_ae48f72dcccc989ba3da7d5c9e133bdc.jpg>
+Package pdftex.def Info: fig/z5092846641905_ae48f72dcccc989ba3da7d5c9e133bdc.jp
+g  used on input line 63.
+(pdftex.def)             Requested size: 177.18782pt x 132.98091pt.
+<fig/_150.jpg, id=17, 642.4pt x 432.61626pt>
+File: fig/_150.jpg Graphic file (type jpg)
+<use fig/_150.jpg>
+Package pdftex.def Info: fig/_150.jpg  used on input line 64.
+(pdftex.def)             Requested size: 197.12057pt x 132.7498pt.
+ [3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./fi
+g/z5092846641905_ae48f72dcccc989ba3da7d5c9e133bdc.jpg> <./fig/_150.jpg>]
+<fig/z5092886548627_508a1952da20813b18160ccc2a3c6d46.jpg, id=22, 221.66034pt x 
+74.21013pt>
+File: fig/z5092886548627_508a1952da20813b18160ccc2a3c6d46.jpg Graphic file (typ
+e jpg)
+<use fig/z5092886548627_508a1952da20813b18160ccc2a3c6d46.jpg>
+Package pdftex.def Info: fig/z5092886548627_508a1952da20813b18160ccc2a3c6d46.jp
+g  used on input line 106.
+(pdftex.def)             Requested size: 203.83417pt x 68.24242pt.
+<fig/z5092886306575_cdd8f127d1e80cf481c20b98939f77a9.jpg, id=23, 242.03174pt x 
+150.3604pt>
+File: fig/z5092886306575_cdd8f127d1e80cf481c20b98939f77a9.jpg Graphic file (typ
+e jpg)
+<use fig/z5092886306575_cdd8f127d1e80cf481c20b98939f77a9.jpg>
+Package pdftex.def Info: fig/z5092886306575_cdd8f127d1e80cf481c20b98939f77a9.jp
+g  used on input line 112.
+(pdftex.def)             Requested size: 203.83417pt x 126.63683pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+[4 <./fig/z5092886548627_508a1952da20813b18160ccc2a3c6d46.jpg> <./fig/z50928863
+06575_cdd8f127d1e80cf481c20b98939f77a9.jpg>]
+<fig/z5092846978629_cf95b8626921f76a1384d08ef3dcaa74.jpg, id=28, 403.06288pt x 
+171.70187pt>
+File: fig/z5092846978629_cf95b8626921f76a1384d08ef3dcaa74.jpg Graphic file (typ
+e jpg)
+<use fig/z5092846978629_cf95b8626921f76a1384d08ef3dcaa74.jpg>
+Package pdftex.def Info: fig/z5092846978629_cf95b8626921f76a1384d08ef3dcaa74.jp
+g  used on input line 133.
+(pdftex.def)             Requested size: 407.66833pt x 173.67688pt.
+ [5 <./fig/z5092846978629_cf95b8626921f76a1384d08ef3dcaa74.jpg>]
+<fig/z5092847154512_f4e202b7896c8c37a42ed6fff62626c2.jpg, id=32, 500.0696pt x 3
+18.66705pt>
+File: fig/z5092847154512_f4e202b7896c8c37a42ed6fff62626c2.jpg Graphic file (typ
+e jpg)
+<use fig/z5092847154512_f4e202b7896c8c37a42ed6fff62626c2.jpg>
+Package pdftex.def Info: fig/z5092847154512_f4e202b7896c8c37a42ed6fff62626c2.jp
+g  used on input line 160.
+(pdftex.def)             Requested size: 317.07614pt x 202.0547pt.
+ [6 <./fig/z5092847154512_f4e202b7896c8c37a42ed6fff62626c2.jpg>]
+<fig/edges.jpg, id=36, 505.89pt x 301.125pt>
+File: fig/edges.jpg Graphic file (type jpg)
+<use fig/edges.jpg>
+Package pdftex.def Info: fig/edges.jpg  used on input line 176.
+(pdftex.def)             Requested size: 317.07614pt x 188.74023pt.
+ [7 <./fig/edges.jpg>]
+<fig/network.png, id=41, 2131.965pt x 590.205pt>
+File: fig/network.png Graphic file (type png)
+<use fig/network.png>
+Package pdftex.def Info: fig/network.png  used on input line 185.
+(pdftex.def)             Requested size: 407.66833pt x 112.85156pt.
+<fig/z5092847353686_14a2d2b2f8b64488c84035ba08549781.jpg, id=43, 500.0696pt x 2
+24.08551pt>
+File: fig/z5092847353686_14a2d2b2f8b64488c84035ba08549781.jpg Graphic file (typ
+e jpg)
+<use fig/z5092847353686_14a2d2b2f8b64488c84035ba08549781.jpg>
+Package pdftex.def Info: fig/z5092847353686_14a2d2b2f8b64488c84035ba08549781.jp
+g  used on input line 194.
+(pdftex.def)             Requested size: 407.66833pt x 182.68108pt.
+ [8 <./fig/network.png> <./fig/z5092847353686_14a2d2b2f8b64488c84035ba08549781.
+jpg>]
+<fig/z5092847759693_0b41e43af0b0e40899f7c6db8b5e54b7.jpg, id=48, 168.1482pt x 3
+3.726pt>
+File: fig/z5092847759693_0b41e43af0b0e40899f7c6db8b5e54b7.jpg Graphic file (typ
+e jpg)
+<use fig/z5092847759693_0b41e43af0b0e40899f7c6db8b5e54b7.jpg>
+Package pdftex.def Info: fig/z5092847759693_0b41e43af0b0e40899f7c6db8b5e54b7.jp
+g  used on input line 252.
+(pdftex.def)             Requested size: 142.68329pt x 28.61935pt.
+<fig/z5092847943183_94e9a29d3eb127c6d251749201fb7c7b.jpg, id=49, 140.65973pt x 
+90.21625pt>
+File: fig/z5092847943183_94e9a29d3eb127c6d251749201fb7c7b.jpg Graphic file (typ
+e jpg)
+<use fig/z5092847943183_94e9a29d3eb127c6d251749201fb7c7b.jpg>
+Package pdftex.def Info: fig/z5092847943183_94e9a29d3eb127c6d251749201fb7c7b.jp
+g  used on input line 258.
+(pdftex.def)             Requested size: 142.68329pt x 91.5155pt.
+<fig/z5092848171130_735bb59cbabaaa9eb7e44a48ee39f110.jpg, id=50, 163.45631pt x 
+66.4496pt>
+File: fig/z5092848171130_735bb59cbabaaa9eb7e44a48ee39f110.jpg Graphic file (typ
+e jpg)
+<use fig/z5092848171130_735bb59cbabaaa9eb7e44a48ee39f110.jpg>
+Package pdftex.def Info: fig/z5092848171130_735bb59cbabaaa9eb7e44a48ee39f110.jp
+g  used on input line 264.
+(pdftex.def)             Requested size: 142.68329pt x 58.00534pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9]
+<fig/000665.jpg, id=54, 501.875pt x 438.63875pt>
+File: fig/000665.jpg Graphic file (type jpg)
+<use fig/000665.jpg>
+Package pdftex.def Info: fig/000665.jpg  used on input line 283.
+(pdftex.def)             Requested size: 74.01906pt x 64.68861pt.
+<fig/000662.jpg, id=55, 501.875pt x 246.9225pt>
+File: fig/000662.jpg Graphic file (type jpg)
+<use fig/000662.jpg>
+Package pdftex.def Info: fig/000662.jpg  used on input line 284.
+(pdftex.def)             Requested size: 105.74197pt x 52.0248pt.
+<fig/000663.jpg, id=56, 423.5825pt x 501.875pt>
+File: fig/000663.jpg Graphic file (type jpg)
+<use fig/000663.jpg>
+Package pdftex.def Info: fig/000663.jpg  used on input line 285.
+(pdftex.def)             Requested size: 74.01906pt x 87.69925pt.
+<fig/000654.jpg, id=57, 501.875pt x 334.24875pt>
+File: fig/000654.jpg Graphic file (type jpg)
+<use fig/000654.jpg>
+Package pdftex.def Info: fig/000654.jpg  used on input line 286.
+(pdftex.def)             Requested size: 105.74197pt x 70.42381pt.
+<fig/pistola_z3v5_09.jpg, id=58, 1927.2pt x 1084.05pt>
+File: fig/pistola_z3v5_09.jpg Graphic file (type jpg)
+<use fig/pistola_z3v5_09.jpg>
+Package pdftex.def Info: fig/pistola_z3v5_09.jpg  used on input line 299.
+(pdftex.def)             Requested size: 95.16713pt x 53.52748pt.
+<fig/pistol_9047.jpg, id=59, 1626.075pt x 1084.05pt>
+File: fig/pistol_9047.jpg Graphic file (type jpg)
+<use fig/pistol_9047.jpg>
+Package pdftex.def Info: fig/pistol_9047.jpg  used on input line 300.
+(pdftex.def)             Requested size: 95.16713pt x 63.43568pt.
+<fig/pistola_z3v3_09.jpg, id=60, 1927.2pt x 1084.05pt>
+File: fig/pistola_z3v3_09.jpg Graphic file (type jpg)
+<use fig/pistola_z3v3_09.jpg>
+Package pdftex.def Info: fig/pistola_z3v3_09.jpg  used on input line 301.
+(pdftex.def)             Requested size: 95.16713pt x 53.52748pt.
+<fig/pistol_9048.jpg, id=61, 1626.075pt x 1084.05pt>
+File: fig/pistol_9048.jpg Graphic file (type jpg)
+<use fig/pistol_9048.jpg>
+Package pdftex.def Info: fig/pistol_9048.jpg  used on input line 302.
+(pdftex.def)             Requested size: 95.16713pt x 63.43568pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./fig/z5092847759693_0b41e43af0b0e40899f7c6db8b5e54b7.jpg> <./fig/z5092847
+943183_94e9a29d3eb127c6d251749201fb7c7b.jpg> <./fig/z5092848171130_735bb59cbaba
+aa9eb7e44a48ee39f110.jpg> <./fig/000665.jpg> <./fig/000662.jpg> <./fig/000663.j
+pg> <./fig/000654.jpg>] [11 <./fig/pistola_z3v5_09.jpg> <./fig/pistol_9047.JPG>
+ <./fig/pistola_z3v3_09.jpg> <./fig/pistol_9048.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 380--381
+
+ []
+
+<fig/IOU3-1024x784.jpg, id=74, 1027.84pt x 786.94pt>
+File: fig/IOU3-1024x784.jpg Graphic file (type jpg)
+<use fig/IOU3-1024x784.jpg>
+Package pdftex.def Info: fig/IOU3-1024x784.jpg  used on input line 390.
+(pdftex.def)             Requested size: 226.48395pt x 173.3915pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12]
+<fig/positive-negative-true-false-matrix.png, id=80, 799.98875pt x 291.0875pt>
+File: fig/positive-negative-true-false-matrix.png Graphic file (type png)
+<use fig/positive-negative-true-false-matrix.png>
+Package pdftex.def Info: fig/positive-negative-true-false-matrix.png  used on i
+nput line 411.
+(pdftex.def)             Requested size: 317.07614pt x 115.37138pt.
+ [13 <./fig/IOU3-1024x784.jpg> <./fig/positive-negative-true-false-matrix.png>]
+<fig/selvaraj_confusion_matrix_precision_recall_explained_12.png, id=86, 1003.7
+5pt x 602.25pt>
+File: fig/selvaraj_confusion_matrix_precision_recall_explained_12.png Graphic f
+ile (type png)
+<use fig/selvaraj_confusion_matrix_precision_recall_explained_12.png>
+Package pdftex.def Info: fig/selvaraj_confusion_matrix_precision_recall_explain
+ed_12.png  used on input line 444.
+(pdftex.def)             Requested size: 317.07614pt x 190.24274pt.
+<fig/good.png-mh.png, id=87, 387.4475pt x 262.9825pt>
+File: fig/good.png-mh.png Graphic file (type png)
+<use fig/good.png-mh.png>
+Package pdftex.def Info: fig/good.png-mh.png  used on input line 459.
+(pdftex.def)             Requested size: 226.48395pt x 153.72977pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./fig/selvaraj_confusion_matrix_precision_recall_explained_12.png>]
+[15 <./fig/good.png-mh.png>]
+<fig/unnormalize/000002.jpg, id=96, 336.25626pt x 501.875pt>
+File: fig/unnormalize/000002.jpg Graphic file (type jpg)
+<use fig/unnormalize/000002.jpg>
+Package pdftex.def Info: fig/unnormalize/000002.jpg  used on input line 507.
+(pdftex.def)             Requested size: 74.01906pt x 110.47409pt.
+<fig/unnormalize/000003.jpg, id=97, 501.875pt x 376.40625pt>
+File: fig/unnormalize/000003.jpg Graphic file (type jpg)
+<use fig/unnormalize/000003.jpg>
+Package pdftex.def Info: fig/unnormalize/000003.jpg  used on input line 508.
+(pdftex.def)             Requested size: 84.59389pt x 63.44258pt.
+<fig/unnormalize/000004.jpg, id=98, 501.875pt x 407.5225pt>
+File: fig/unnormalize/000004.jpg Graphic file (type jpg)
+<use fig/unnormalize/000004.jpg>
+Package pdftex.def Info: fig/unnormalize/000004.jpg  used on input line 509.
+(pdftex.def)             Requested size: 84.59389pt x 68.68716pt.
+<fig/unnormalize/000006.jpg, id=99, 501.875pt x 376.40625pt>
+File: fig/unnormalize/000006.jpg Graphic file (type jpg)
+<use fig/unnormalize/000006.jpg>
+Package pdftex.def Info: fig/unnormalize/000006.jpg  used on input line 510.
+(pdftex.def)             Requested size: 84.59389pt x 63.44258pt.
+<fig/normalize/_1.jpg, id=100, 301.125pt x 301.125pt>
+File: fig/normalize/_1.jpg Graphic file (type jpg)
+<use fig/normalize/_1.jpg>
+Package pdftex.def Info: fig/normalize/_1.jpg  used on input line 513.
+(pdftex.def)             Requested size: 84.59389pt x 84.5947pt.
+<fig/normalize/_2.jpg, id=101, 301.125pt x 301.125pt>
+File: fig/normalize/_2.jpg Graphic file (type jpg)
+<use fig/normalize/_2.jpg>
+Package pdftex.def Info: fig/normalize/_2.jpg  used on input line 514.
+(pdftex.def)             Requested size: 84.59389pt x 84.5947pt.
+<fig/normalize/_3.jpg, id=102, 301.125pt x 301.125pt>
+File: fig/normalize/_3.jpg Graphic file (type jpg)
+<use fig/normalize/_3.jpg>
+Package pdftex.def Info: fig/normalize/_3.jpg  used on input line 515.
+(pdftex.def)             Requested size: 84.59389pt x 84.5947pt.
+<fig/normalize/_4.jpg, id=103, 301.125pt x 301.125pt>
+File: fig/normalize/_4.jpg Graphic file (type jpg)
+<use fig/normalize/_4.jpg>
+Package pdftex.def Info: fig/normalize/_4.jpg  used on input line 516.
+(pdftex.def)             Requested size: 84.59389pt x 84.5947pt.
+
+Overfull \hbox (6.74263pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 mAP 
+ []
+
+
+Overfull \hbox (0.67467pt too wide) in paragraph at lines 550--550
+ \T5/cmr/m/n/5 0:5| 
+ []
+
+
+Overfull \hbox (4.42375pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 aero| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 bike| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 bird| 
+ []
+
+
+Overfull \hbox (5.2916pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 boat| 
+ []
+
+
+Overfull \hbox (9.66553pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 bottle| 
+ []
+
+
+Overfull \hbox (2.09793pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 bus| 
+ []
+
+
+Overfull \hbox (1.0218pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 car| 
+ []
+
+
+Overfull \hbox (1.0218pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 cat| 
+ []
+
+
+Overfull \hbox (6.61072pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 chair| 
+ []
+
+
+Overfull \hbox (2.93106pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 cow| 
+ []
+
+
+Overfull \hbox (6.78429pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 table| 
+ []
+
+
+Overfull \hbox (2.41035pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 dog| 
+ []
+
+
+Overfull \hbox (7.51328pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 horse| 
+ []
+
+
+Overfull \hbox (9.38782pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 mbike| 
+ []
+
+
+Overfull \hbox (5.49988pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 pson| 
+ []
+
+
+Overfull \hbox (7.305pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 plant| 
+ []
+
+
+Overfull \hbox (8.20755pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 sheep| 
+ []
+
+
+Overfull \hbox (3.59062pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 sofa| 
+ []
+
+
+Overfull \hbox (6.43715pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 train| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 77.20| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 81.10| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 84.81| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 77.57| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 70.63| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 45.81| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.32| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.69| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 89.05| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 58.60| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 81.52| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 76.92| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.80| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.50| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 84.70| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.51| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 51.90| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 77.15| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.51| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.84| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 76.00| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.4| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 83.6| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.5| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 75.9| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 71.9| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 54.2| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.4| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.8| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.2| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 62.8| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 82.8| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.8| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.4| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.4| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.8| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 80.2| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 51.5| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 76.9| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 81.9| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.7| 
+ []
+
+
+Overfull \hbox (4.07661pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 77.3| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.27| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 83.18| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.12| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.22| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 72.05| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 51.26| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.95| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.46| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.76| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 59.52| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.05| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 75.42| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.72| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.39| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 84.66| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 79.41| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 54.22| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.17| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 80.24| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.03| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 75.60| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.36| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 81.97| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 84.01| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 77.10| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 71.76| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 52.37| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.57| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.02| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 88.37| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 59.71| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.35| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 75.35| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 88.08| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 88.49| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.24| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.94| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 52.49| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 80.23| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.57| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.19| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.30| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 77.69| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 82.01| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 84.35| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.71| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 73.39| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 51.95| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.58| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.56| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.41| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 57.99| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 86.28| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 73.90| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.40| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 87.85| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 83.98| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.51| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 50.95| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.25| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 76.66| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 85.70| 
+ []
+
+
+Overfull \hbox (7.47856pt too wide) in paragraph at lines 550--550
+ []|\T5/cmr/m/n/5 78.34| 
+ []
+
+[16 <./fig/unnormalize/000002.jpg> <./fig/unnormalize/000003.jpg> <./fig/unnorm
+alize/000004.jpg> <./fig/unnormalize/000006.jpg> <./fig/normalize/_1.jpg> <./fi
+g/normalize/_2.jpg> <./fig/normalize/_3.jpg> <./fig/normalize/_4.jpg>]
+<fig/VOC_mAP.png, id=107, 722.7pt x 433.62pt>
+File: fig/VOC_mAP.png Graphic file (type png)
+<use fig/VOC_mAP.png>
+Package pdftex.def Info: fig/VOC_mAP.png  used on input line 557.
+(pdftex.def)             Requested size: 317.07614pt x 190.24422pt.
+<fig/VOC_41.jpg, id=108, 501.875pt x 376.40625pt>
+File: fig/VOC_41.jpg Graphic file (type jpg)
+<use fig/VOC_41.jpg>
+Package pdftex.def Info: fig/VOC_41.jpg  used on input line 566.
+(pdftex.def)             Requested size: 155.03809pt x 116.27693pt.
+<fig/VOC_FPN_41.jpg, id=109, 501.875pt x 376.40625pt>
+File: fig/VOC_FPN_41.jpg Graphic file (type jpg)
+<use fig/VOC_FPN_41.jpg>
+Package pdftex.def Info: fig/VOC_FPN_41.jpg  used on input line 567.
+(pdftex.def)             Requested size: 155.03809pt x 116.27693pt.
+<fig/VOC_578.jpg, id=110, 501.875pt x 376.40625pt>
+File: fig/VOC_578.jpg Graphic file (type jpg)
+<use fig/VOC_578.jpg>
+Package pdftex.def Info: fig/VOC_578.jpg  used on input line 570.
+(pdftex.def)             Requested size: 155.03809pt x 116.27693pt.
+<fig/VOC_FPN_578.jpg, id=111, 501.875pt x 376.40625pt>
+File: fig/VOC_FPN_578.jpg Graphic file (type jpg)
+<use fig/VOC_FPN_578.jpg>
+Package pdftex.def Info: fig/VOC_FPN_578.jpg  used on input line 571.
+(pdftex.def)             Requested size: 155.03809pt x 116.27693pt.
+<fig/VOC_638.jpg, id=112, 501.875pt x 376.40625pt>
+File: fig/VOC_638.jpg Graphic file (type jpg)
+<use fig/VOC_638.jpg>
+Package pdftex.def Info: fig/VOC_638.jpg  used on input line 574.
+(pdftex.def)             Requested size: 155.03809pt x 116.27693pt.
+<fig/VOC_FPN_638.jpg, id=113, 501.875pt x 376.40625pt>
+File: fig/VOC_FPN_638.jpg Graphic file (type jpg)
+<use fig/VOC_FPN_638.jpg>
+Package pdftex.def Info: fig/VOC_FPN_638.jpg  used on input line 575.
+(pdftex.def)             Requested size: 155.03809pt x 116.27693pt.
+<fig/VOC_78.jpg, id=114, 361.35pt x 501.875pt>
+File: fig/VOC_78.jpg Graphic file (type jpg)
+<use fig/VOC_78.jpg>
+Package pdftex.def Info: fig/VOC_78.jpg  used on input line 578.
+(pdftex.def)             Requested size: 155.03809pt x 215.32724pt.
+<fig/VOC_FPN_78.jpg, id=115, 361.35pt x 501.875pt>
+File: fig/VOC_FPN_78.jpg Graphic file (type jpg)
+<use fig/VOC_FPN_78.jpg>
+Package pdftex.def Info: fig/VOC_FPN_78.jpg  used on input line 579.
+(pdftex.def)             Requested size: 155.03809pt x 215.32724pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<fig/SOHAS_9.jpg, id=116, 1927.2pt x 1094.0875pt>
+File: fig/SOHAS_9.jpg Graphic file (type jpg)
+<use fig/SOHAS_9.jpg>
+Package pdftex.def Info: fig/SOHAS_9.jpg  used on input line 607.
+(pdftex.def)             Requested size: 221.48395pt x 125.72559pt.
+<fig/SOHAS_104.jpg, id=117, 1927.2pt x 1094.0875pt>
+File: fig/SOHAS_104.jpg Graphic file (type jpg)
+<use fig/SOHAS_104.jpg>
+Package pdftex.def Info: fig/SOHAS_104.jpg  used on input line 608.
+(pdftex.def)             Requested size: 221.48395pt x 125.72559pt.
+<fig/SOHAS_133.jpg, id=118, 1927.2pt x 1084.05pt>
+File: fig/SOHAS_133.jpg Graphic file (type jpg)
+<use fig/SOHAS_133.jpg>
+Package pdftex.def Info: fig/SOHAS_133.jpg  used on input line 611.
+(pdftex.def)             Requested size: 221.48395pt x 124.57214pt.
+<fig/SOHAS_257.jpg, id=119, 1284.8pt x 722.7pt>
+File: fig/SOHAS_257.jpg Graphic file (type jpg)
+<use fig/SOHAS_257.jpg>
+Package pdftex.def Info: fig/SOHAS_257.jpg  used on input line 612.
+(pdftex.def)             Requested size: 221.48395pt x 124.57765pt.
+<fig/SOHAS_561.jpg, id=120, 1284.8pt x 722.7pt>
+File: fig/SOHAS_561.jpg Graphic file (type jpg)
+<use fig/SOHAS_561.jpg>
+Package pdftex.def Info: fig/SOHAS_561.jpg  used on input line 615.
+(pdftex.def)             Requested size: 221.48395pt x 124.57765pt.
+<fig/SOHAS_653.jpg, id=121, 1284.8pt x 722.7pt>
+File: fig/SOHAS_653.jpg Graphic file (type jpg)
+<use fig/SOHAS_653.jpg>
+Package pdftex.def Info: fig/SOHAS_653.jpg  used on input line 616.
+(pdftex.def)             Requested size: 221.48395pt x 124.57765pt.
+<fig/SOHAS_1.jpg, id=122, 1927.2pt x 1094.0875pt>
+File: fig/SOHAS_1.jpg Graphic file (type jpg)
+<use fig/SOHAS_1.jpg>
+Package pdftex.def Info: fig/SOHAS_1.jpg  used on input line 619.
+(pdftex.def)             Requested size: 221.48395pt x 125.72559pt.
+<fig/SOHAS_711.jpg, id=123, 1284.8pt x 722.7pt>
+File: fig/SOHAS_711.jpg Graphic file (type jpg)
+<use fig/SOHAS_711.jpg>
+Package pdftex.def Info: fig/SOHAS_711.jpg  used on input line 620.
+(pdftex.def)             Requested size: 221.48395pt x 124.57765pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./fig/VOC_mAP.png>] (./conference_101719.bbl [18]) [19] [20 <./fig/VOC_41.
+jpg> <./fig/VOC_FPN_41.jpg> <./fig/VOC_578.jpg> <./fig/VOC_FPN_578.jpg> <./fig/
+VOC_638.jpg> <./fig/VOC_FPN_638.jpg> <./fig/VOC_78.jpg> <./fig/VOC_FPN_78.jpg>]
+[21 <./fig/SOHAS_9.jpg> <./fig/SOHAS_104.jpg> <./fig/SOHAS_133.jpg> <./fig/SOHA
+S_257.jpg> <./fig/SOHAS_561.jpg> <./fig/SOHAS_653.jpg> <./fig/SOHAS_1.jpg> <./f
+ig/SOHAS_711.jpg>] (./conference_101719.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8032 strings out of 474175
+ 136049 string characters out of 5749699
+ 1963460 words of memory out of 5000000
+ 30220 multiletter control sequences out of 15000+600000
+ 569706 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 67i,12n,79p,2670b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.p
+fb><c:/texlive/2023/texmf-dist/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/202
+3/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb><c:/texlive/2023/texmf-dist/fonts
+/type1/vntex/vnr/vnr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/vntex/vnr/vn
+r5.pfb><c:/texlive/2023/texmf-dist/fonts/type1/vntex/vnr/vnr9.pfb><c:/texlive/2
+023/texmf-dist/fonts/type1/vntex/vnr/vnti10.pfb>
+Output written on conference_101719.pdf (21 pages, 8453974 bytes).
+PDF statistics:
+ 203 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+

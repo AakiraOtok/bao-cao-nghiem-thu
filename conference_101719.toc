@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}\textbf {Giới thiệu}}{2}{}%
+\contentsline {section}{\numberline {2}\textbf {Cơ sở lý thuyết}}{3}{}%
+\contentsline {subsection}{\numberline {2.1}\textbf {Bài toán phát hiện vật thể}}{3}{}%
+\contentsline {subsection}{\numberline {2.2}\textbf {Ứng dụng và thách thức}}{3}{}%
+\contentsline {subsection}{\numberline {2.3}\textbf {Các hướng tiếp cận hiện có}}{4}{}%
+\contentsline {subsection}{\numberline {2.4}\textbf {Mô hình phát hiện vật thể Single-Shot-Multibox Detector}}{5}{}%
+\contentsline {subsection}{\numberline {2.5}\textbf {Feature Pyramid Network}}{6}{}%
+\contentsline {subsection}{\numberline {2.6}\textbf {Mạng trích xuất đặc trưng VGG16}}{6}{}%
+\contentsline {section}{\numberline {3}\textbf {Đề xuất mô hình}}{8}{}%
+\contentsline {subsection}{\numberline {3.1}\textbf {Mạng xương sống và các lớp tích chập bổ trợ}}{8}{}%
+\contentsline {subsection}{\numberline {3.2}\textbf {FPN Module}}{9}{}%
+\contentsline {section}{\numberline {4}\textbf {Tập dữ liệu}}{10}{}%
+\contentsline {subsection}{\numberline {4.1}The PASCAL Visual Object Classes (VOC)}{10}{}%
+\contentsline {subsection}{\numberline {4.2}\textbf {Small Objects Handled Similarly to a weapon (SOHAS)}}{10}{}%
+\contentsline {section}{\numberline {5}\textbf {Thực nghiệm}}{11}{}%
+\contentsline {subsection}{\numberline {5.1}\textbf {Huấn luyện}}{11}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}\textbf {Các hộp neo và tỉ lệ}}{11}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}\textbf {Hàm mục tiêu}}{11}{}%
+\contentsline {subsection}{\numberline {5.2}\textbf {Phương pháp đánh giá}}{12}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}\textbf {Intersect over Union}}{13}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}\textbf {True Positive và False Positive}}{13}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}\text {Độ chính xác và độ phủ (Precision và Recall)}}{14}{}%
+\contentsline {subsubsection}{\numberline {5.2.4}\textbf {Đường cong precision-recall }}{14}{}%
+\contentsline {subsubsection}{\numberline {5.2.5}Mean Average Precision (mAP)}{15}{}%
+\contentsline {subsubsection}{\numberline {5.2.6}\textbf {Tăng cường dữ liệu}}{15}{}%
+\contentsline {subsection}{\numberline {5.3}\textbf {Kết quả thực nghiệm}}{16}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}\textbf {Trên bộ dữ liệu VOC}}{17}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}\textbf {Trên bộ dữ liệu SOHAS}}{17}{}%
+\contentsline {section}{\numberline {6}\textbf {Kết luận và hướng phát triển}}{18}{}%
+\contentsline {section}{6\hskip 1em\relax Tài liệu tham khảo}{18}{}%
